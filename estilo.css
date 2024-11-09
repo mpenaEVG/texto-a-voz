@@ -1,0 +1,11 @@
+body{
+
+  font-family: Arial, Sans-serif;
+  margin: 20px;
+  padding: 10px;
+}
+
+label, select, button{
+  margin-top: 18px;
+  display: block;
+}
